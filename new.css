@@ -1,3 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+
+
 .container {
   max-width: 900px;
   margin: 0 auto;
@@ -6,6 +19,8 @@
 
 h1 {
   text-align: center;
+  margin-block: 25px;
+  font-size: 40px;
 }
 
 #todoForm {
@@ -48,12 +63,14 @@ li {
   align-items: center;
   margin-bottom: 10px;
   padding-inline: 10px;
+  color: black;
+  border-radius: 12px;
 }
 
 .completed {
   text-decoration: line-through;
-  color: gray;
-  background: #bdbdbddd;
+  color: rgba(0, 0, 0, 0.8);
+  background: #31ff38dd;
 }
 
 .completed label {

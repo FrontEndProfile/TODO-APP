@@ -2,17 +2,17 @@
   "todos": [
     {
       "text": "Day 1: Introduction to C++, Installation, and Setup",
-      "completed": false,
+      "completed": true,
       "id": 1
     },
     {
       "text": "Day 2: Basic Output (cout) and Input (cin)",
-      "completed": false,
+      "completed": true,
       "id": 2
     },
     {
       "text": "Day 3: Variables and Data Types",
-      "completed": false,
+      "completed": true,
       "id": 3
     },
     {
