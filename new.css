@@ -47,11 +47,13 @@ li {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  padding-inline: 10px;
 }
 
 .completed {
   text-decoration: line-through;
   color: gray;
+  background: #bdbdbddd;
 }
 
 .completed label {
@@ -64,7 +66,10 @@ li {
 
 
 
-
+.delete-btn {
+  font-size: 12px;
+  padding: 8px 20px;
+}
 
 
 
@@ -73,10 +78,13 @@ li {
   padding: 30px 25px;
   border-radius: 22px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  display: flex;
+  flex-direction: column-reverse;
 }
 
 #todoList li {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 10px;
 }

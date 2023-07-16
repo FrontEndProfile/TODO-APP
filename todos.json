@@ -1,3 +1,224 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "text": "Day 1: Introduction to C++, Installation, and Setup",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "text": "Day 2: Basic Output (cout) and Input (cin)",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "text": "Day 3: Variables and Data Types",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "Day 4: Basic Arithmetic and Operators",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "Day 5: Control Structures (if-else, loops)",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "Day 6: Nested Loops and Loop Control Statements",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "text": "Day 7: Functions (Part 1: Syntax and Calling)",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "text": "Day 8: Functions (Part 2: Parameters and Return Values)",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "text": "Day 9: Arrays (Part 1: Declaration and Initialization)",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "text": "Day 10: Arrays (Part 2: Accessing and Manipulating)",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "text": "Day 11: Arrays (Part 3: Multidimensional Arrays)",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "text": "Day 12: Strings (Part 1: Declaration and Basic Operations)",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "text": "Day 13: Strings (Part 2: String Manipulation)",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "text": "Day 14: Pointers (Part 1: Introduction and Basics)",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "text": "Day 15: Pointers (Part 2: Pointer Arithmetic and Dynamic Memory)",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "text": "Day 16: Pointers (Part 3: Pointers and Arrays)",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "text": "Day 17: Structures and Unions",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "text": "Day 18: File Input and Output (I/O)",
+      "completed": false,
+      "id": 18
+    },
+    {
+      "text": "Day 19: Enumerations and Constants",
+      "completed": false,
+      "id": 19
+    },
+    {
+      "text": "Day 20: Introduction to Object-Oriented Programming (OOP)",
+      "completed": false,
+      "id": 20
+    },
+    {
+      "text": "Day 21: Classes and Objects (Part 1: Declaration and Definition)",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "text": "Day 22: Classes and Objects (Part 2: Member Functions and Access Specifiers)",
+      "completed": false,
+      "id": 22
+    },
+    {
+      "text": "Day 23: Constructors and Destructors",
+      "completed": false,
+      "id": 23
+    },
+    {
+      "text": "Day 24: Inheritance (Part 1: Single Inheritance)",
+      "completed": false,
+      "id": 24
+    },
+    {
+      "text": "Day 25: Inheritance (Part 2: Multiple and Multilevel Inheritance)",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "text": "Day 26: Polymorphism (Part 1: Function Overloading)",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "text": "Day 27: Polymorphism (Part 2: Function Overriding)",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "text": "Day 28: Polymorphism (Part 3: Abstract Classes and Interfaces)",
+      "completed": false,
+      "id": 28
+    },
+    {
+      "text": "Day 29: Exception Handling",
+      "completed": false,
+      "id": 29
+    },
+    {
+      "text": "Day 30: Introduction to Standard Template Library (STL)",
+      "completed": false,
+      "id": 30
+    },
+    {
+      "text": "Day 31: STL Containers (Part 1: Vectors and Lists)",
+      "completed": false,
+      "id": 31
+    },
+    {
+      "text": "Day 32: STL Containers (Part 2: Stacks and Queues)",
+      "completed": false,
+      "id": 32
+    },
+    {
+      "text": "Day 33: STL Containers (Part 3: Sets and Maps)",
+      "completed": false,
+      "id": 33
+    },
+    {
+      "text": "Day 34: STL Algorithms (Part 1: Sorting and Searching)",
+      "completed": false,
+      "id": 34
+    },
+    {
+      "text": "Day 35: STL Algorithms (Part 2: Iterators and Algorithms)",
+      "completed": false,
+      "id": 35
+    },
+    {
+      "text": "Day 36: File Handling and Streams (Part 1: Input)",
+      "completed": false,
+      "id": 36
+    },
+    {
+      "text": "Day 37: File Handling and Streams (Part 2: Output)",
+      "completed": false,
+      "id": 37
+    },
+    {
+      "text": "Day 38: Introduction to Templates",
+      "completed": false,
+      "id": 38
+    },
+    {
+      "text": "Day 39: Template Functions and Classes",
+      "completed": false,
+      "id": 39
+    },
+    {
+      "text": "Day 40: Review and Practice",
+      "completed": false,
+      "id": 40
+    },
+    {
+      "text": "Day 41: Review and Practice",
+      "completed": false,
+      "id": 41
+    },
+    {
+      "text": "Day 42: Review and Practice",
+      "completed": false,
+      "id": 42
+    },
+    {
+      "text": "Day 43: Review and Practice",
+      "completed": false,
+      "id": 43
+    },
+    {
+      "text": "Day 45: Final Project or Challenge",
+      "completed": false,
+      "id": 45
+    }
+  ]
 }
